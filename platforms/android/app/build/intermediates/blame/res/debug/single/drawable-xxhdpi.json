@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_refresh.png",
+        "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_scan.png",
+        "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/src/main/res/drawable-xxhdpi/ic_action_scan.png"
+    }
+]
