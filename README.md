@@ -1,4 +1,11 @@
-## Commands
+# 说明
+
+一个参考[yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo/blob/master/README.md)完成的weex demo，主要参考其UI样式，组件是在自己对UI的理解下完成编写。
+
+# 变更历史
+* 1、V0.1 Demo主体框架搭建完成，实现主页的UI展示
+
+# 工程运行命令
 
 ### npm start
 
