@@ -4,3 +4,5 @@
 .idea/
 .postcssrc.js
 .temp/
+platforms/android/.gradle/
+platforms/android/app/build/
