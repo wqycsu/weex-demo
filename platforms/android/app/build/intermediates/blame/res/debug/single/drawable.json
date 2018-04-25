@@ -73,7 +73,7 @@
     },
     {
         "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/drawable/error.png",
-        "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.16.0/res/drawable/error.png"
+        "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.18.0/res/drawable/error.png"
     },
     {
         "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",

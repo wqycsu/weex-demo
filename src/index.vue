@@ -25,14 +25,22 @@ export default {
       },
       {
         index: 1,
-        icon: '\ue600',
-        title: '分类',
+        icon: '\ue617',
+        title: '专题',
         dot: '1',
-        needNum: true,
+        needNum: false,
         selected: false
       },
       {
         index: 2,
+        icon: '\ue7f8',
+        title: '分类',
+        dot: '1',
+        needNum: false,
+        selected: false
+      },
+      {
+        index: 3,
         icon: '\ue603',
         title: '购物车',
         dot: '5',
@@ -40,7 +48,7 @@ export default {
         selected: false
       },
       {
-        index: 3,
+        index: 4,
         icon: '\ue602',
         title: '我',
         dot: '1',
@@ -52,7 +60,8 @@ export default {
         '/main',
         '/hello',
         '/main',
-        '/hello'
+        '/hello',
+        '/main'
       ]
     }
   },

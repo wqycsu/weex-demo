@@ -62,7 +62,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ 	return __webpack_require__(__webpack_require__.s = 2);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -73,14 +73,14 @@ var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(8)
+__vue_styles__.push(__webpack_require__(9)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(9)
+__vue_exports__ = __webpack_require__(10)
 
 /* template */
-var __vue_template__ = __webpack_require__(10)
+var __vue_template__ = __webpack_require__(11)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -113,19 +113,63 @@ module.exports = __vue_exports__
 /* 1 */
 /***/ (function(module, exports, __webpack_require__) {
 
+var __vue_exports__, __vue_options__
+var __vue_styles__ = []
+
+/* styles */
+__vue_styles__.push(__webpack_require__(32)
+)
+
+/* script */
+__vue_exports__ = __webpack_require__(33)
+
+/* template */
+var __vue_template__ = __webpack_require__(34)
+__vue_options__ = __vue_exports__ = __vue_exports__ || {}
+if (
+  typeof __vue_exports__.default === "object" ||
+  typeof __vue_exports__.default === "function"
+) {
+if (Object.keys(__vue_exports__).some(function (key) { return key !== "default" && key !== "__esModule" })) {console.error("named exports are not supported in *.vue files.")}
+__vue_options__ = __vue_exports__ = __vue_exports__.default
+}
+if (typeof __vue_options__ === "function") {
+  __vue_options__ = __vue_options__.options
+}
+__vue_options__.__file = "/Users/weiquanyun/WeexProjects/awesome-project/src/components/goodcard_c.vue"
+__vue_options__.render = __vue_template__.render
+__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
+__vue_options__._scopeId = "data-v-a72d0fe8"
+__vue_options__.style = __vue_options__.style || {}
+__vue_styles__.forEach(function (module) {
+  for (var name in module) {
+    __vue_options__.style[name] = module[name]
+  }
+})
+if (typeof __register_static_styles__ === "function") {
+  __register_static_styles__(__vue_options__._scopeId, __vue_styles__)
+}
+
+module.exports = __vue_exports__
+
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports, __webpack_require__) {
+
 "use strict";
 
 
-var _gmixin = __webpack_require__(2);
+var _gmixin = __webpack_require__(3);
 
 var _gmixin2 = _interopRequireDefault(_gmixin);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /* weex initialized here, please do not move this line */
-var router = __webpack_require__(3); /* global Vue */
+var router = __webpack_require__(4); /* global Vue */
 
-var App = __webpack_require__(32);
+var App = __webpack_require__(48);
 /* eslint-disable no-new */
 Vue.config.debug = true;
 
@@ -135,7 +179,7 @@ new Vue(Vue.util.extend({ el: '#root', router: router }, App));
 router.push('/');
 
 /***/ }),
-/* 2 */
+/* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -147,6 +191,8 @@ Object.defineProperty(exports, "__esModule", {
 /**
  * Created by weiquanyun on 2018/4/9.
  */
+// eslint-disable-next-line no-undef
+var stream = weex.requireModule('stream');
 exports.default = {
   methods: {
     jump: function jump(to) {
@@ -188,26 +234,33 @@ exports.default = {
         'fontFamily': 'iconfont',
         'src': "url('http://at.alicdn.com/t/font_627710_yadz0g4ggvd0lik9.ttf')"
       });
+    },
+    get: function get(api, callback) {
+      return stream.fetch({
+        method: 'GET',
+        type: 'json',
+        url: 'http://cdn.zwwill.com/yanxuan/' + api
+      }, callback);
     }
   }
 };
 
 /***/ }),
-/* 3 */
+/* 4 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _vueRouter = __webpack_require__(4);
+var _vueRouter = __webpack_require__(5);
 
 var _vueRouter2 = _interopRequireDefault(_vueRouter);
 
-var _hello = __webpack_require__(5);
+var _hello = __webpack_require__(6);
 
 var _hello2 = _interopRequireDefault(_hello);
 
-var _Main = __webpack_require__(12);
+var _Main = __webpack_require__(13);
 
 var _Main2 = _interopRequireDefault(_Main);
 
@@ -232,7 +285,7 @@ module.exports = new _vueRouter2.default({
 });
 
 /***/ }),
-/* 4 */
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2693,21 +2746,21 @@ if (inBrowser && window.Vue) {
 exports.default = VueRouter;
 
 /***/ }),
-/* 5 */
+/* 6 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(6)
+__vue_styles__.push(__webpack_require__(7)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(7)
+__vue_exports__ = __webpack_require__(8)
 
 /* template */
-var __vue_template__ = __webpack_require__(11)
+var __vue_template__ = __webpack_require__(12)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -2737,7 +2790,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 6 */
+/* 7 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -2750,7 +2803,7 @@ module.exports = {
     "top": 0,
     "right": 0,
     "bottom": 0,
-    "left": "750"
+    "left": 0
   },
   "@TRANSITION": {
     "container": {
@@ -2762,24 +2815,40 @@ module.exports = {
   "container_mounted": {
     "left": 0
   },
-  "message": {
-    "marginTop": "30",
-    "marginRight": "30",
-    "marginBottom": "30",
-    "marginLeft": "30",
-    "fontSize": "32",
-    "color": "#727272",
-    "textOverflow": "clip",
-    "width": "750"
-  },
-  "button_p": {
+  "topic-header": {
     "flexDirection": "row",
-    "flexWrap": "nowrap"
+    "backgroundColor": "#ffffff"
+  },
+  "header-item": {
+    "width": "275",
+    "height": "150",
+    "marginTop": "10",
+    "marginRight": "10",
+    "marginBottom": "10",
+    "marginLeft": "10",
+    "justifyContent": "center",
+    "alignItems": "center"
+  },
+  "item-image": {
+    "width": "270",
+    "height": "150",
+    "position": "absolute",
+    "left": 0,
+    "top": 0
+  },
+  "item-name": {
+    "fontSize": "28",
+    "overflow": "hidden",
+    "textAlign": "center",
+    "color": "#ffffff",
+    "lines": 1,
+    "whiteSpace": "nowrap",
+    "textOverflow": "ellipsis"
   }
 }
 
 /***/ }),
-/* 7 */
+/* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2799,14 +2868,71 @@ exports.default = {
   components: { CButton: _button2.default },
   data: function data() {
     return {
-      mounted: false
+      mounted: false,
+      itemList: [{
+        item: [{
+          img: 'https://yanxuan.nosdn.127.net/15030393722652401.jpg',
+          name: '严选look'
+        }, {
+          img: 'https://yanxuan.nosdn.127.net/d943675462a06f817d33062d4eb059f5.jpg',
+          name: '严选推荐'
+        }, {
+          img: 'https://yanxuan.nosdn.127.net/1de4da49367dd7c01af1f7a2b23b0237.jpg',
+          name: '丁磊私物推荐'
+        }, {
+          img: 'http://yanxuan.nosdn.127.net/437cc656ff529f8f84db6efc48df9bf4.png',
+          name: '挑款师推荐'
+        }],
+        type: '0'
+      }, {
+        item: {
+          auther: '严选推荐',
+          autherImg: 'http://yanxuan.nosdn.127.net/3d860cbf663253590da6a64ff07f9919.png?imageView&thumbnail=64y64',
+          img: 'http://yanxuan.nosdn.127.net/5a1df92d48fa3214bec9bb40ab067683.jpg',
+          info: '6个家庭清洁小技巧',
+          price: '6.9',
+          tlt: '年中扫一扫，下半年运势好'
+        },
+        type: '1'
+      }, {
+        item: {
+          auther: '服装组：小服',
+          autherImg: 'https://yanxuan.nosdn.127.net/15041772608140418.png?imageView&thumbnail=64y64',
+          img: ['https://yanxuan.nosdn.127.net/15041772896010423.jpg', 'https://yanxuan.nosdn.127.net/15041772789070419.jpg', 'https://yanxuan.nosdn.127.net/15041772808640420.jpg'],
+          info: '前两天推男式运动T恤时，就有小伙伴在专题评论里，问小姐姐们的运动衣在哪儿。',
+          price: '',
+          tlt: '小姐姐们的运动衣提前上架啦'
+        },
+        type: '2'
+      }, {
+        item: {
+          auther: '居家组：朵朵',
+          autherImg: 'https://yanxuan.nosdn.127.net/15040896357740404.png?imageView&thumbnail=64y64',
+          img: ['https://yanxuan.nosdn.127.net/15040927525260414.jpg', 'https://yanxuan.nosdn.127.net/15040927586650416.jpg', 'https://yanxuan.nosdn.127.net/15040927556820415.jpg'],
+          info: '连续下了几场雨，杭州的早晚，已透出几丝凉意。再睡席子便有点凉了，于是周末从柜子翻...',
+          price: '',
+          tlt: '初秋，最想用它来裸睡'
+        },
+        type: '2'
+      }, {
+        item: {
+          auther: '严选推荐',
+          autherImg: 'http://yanxuan.nosdn.127.net/3d860cbf663253590da6a64ff07f9919.png?imageView&thumbnail=64y64',
+          img: 'http://yanxuan.nosdn.127.net/4d72145e48e65ee3deaf2e1403e6ec73.jpg',
+          info: '那些值得珍藏的严选手作好物',
+          price: '29',
+          tlt: '不为繁华易匠心'
+        },
+        type: '1'
+      }]
     };
   },
 
   computed: {},
+  created: function created() {},
   mounted: function mounted() {
     if (!this.isWeb()) {
-      this.setNavTitle('Hello');
+      this.setNavTitle('专题');
       var animation = weex.requireModule('animation');
       animation.transition(this.$refs.container, {
         styles: {
@@ -2835,11 +2961,24 @@ exports.default = {
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* eslint-disable no-undef */
 
 /***/ }),
-/* 8 */
+/* 9 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -2872,7 +3011,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 9 */
+/* 10 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2901,7 +3040,7 @@ exports.default = {
 };
 
 /***/ }),
-/* 10 */
+/* 11 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -2915,38 +3054,98 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 11 */
+/* 12 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     ref: "container",
-    class: [_vm.mounted ? 'container_mounted' : 'container'],
+    staticClass: ["container"],
     attrs: {
       "id": "div"
     }
-  }, [_c('text', {
-    staticClass: ["message"]
-  }, [_vm._v("Now, let's use Vue.js to build your Weex app.")])])
+  }, [_c('recycle-list', {
+    key: _vm.index,
+    appendAsTree: true,
+    attrs: {
+      "listData": _vm.itemList,
+      "bindingExpression": "itemList",
+      "alias": "item",
+      "index": "index",
+      "switch": "type",
+      "append": "tree"
+    }
+  }, [_c('cell-slot', {
+    appendAsTree: true,
+    attrs: {
+      "case": "0",
+      "append": "tree"
+    }
+  }, [_c('scroller', {
+    staticClass: ["topic-header"],
+    attrs: {
+      "scrollDirection": "horizontal",
+      "showScrollbar": "false"
+    }
+  }, [_c('div', {
+    key: {
+      "@binding": "i"
+    },
+    staticClass: ["header-item"],
+    attrs: {
+      "[[repeat]]": {
+        "@expression": "item.item",
+        "@alias": "data",
+        "@index": "i"
+      }
+    }
+  }, [_c('image', {
+    staticClass: ["item-image"],
+    attrs: {
+      "resize": "cover",
+      "src": {
+        "@binding": "data.img"
+      }
+    }
+  }), _c('text', {
+    staticClass: ["item-name"],
+    attrs: {
+      "value": {
+        "@binding": "data.name"
+      }
+    }
+  })])])]), _c('cell-slot', {
+    appendAsTree: true,
+    attrs: {
+      "case": "1",
+      "append": "tree"
+    }
+  }), _c('cell-slot', {
+    appendAsTree: true,
+    attrs: {
+      "case": "2",
+      "append": "tree"
+    }
+  })], 1)], 1)
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 12 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(13)
+__vue_styles__.push(__webpack_require__(14)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(14)
+__vue_exports__ = __webpack_require__(15)
 
 /* template */
-var __vue_template__ = __webpack_require__(31)
+var __vue_template__ = __webpack_require__(47)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -2976,7 +3175,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 13 */
+/* 14 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -3005,24 +3204,6 @@ module.exports = {
     "fontSize": "42",
     "textAlign": "center"
   },
-  "panel": {
-    "width": "600",
-    "height": "250",
-    "marginLeft": "75",
-    "marginTop": "35",
-    "marginBottom": "35",
-    "flexDirection": "column",
-    "justifyContent": "center",
-    "borderWidth": "2",
-    "borderStyle": "solid",
-    "borderColor": "#DDDDDD",
-    "backgroundColor": "#F5F5F5"
-  },
-  "text": {
-    "fontSize": "50",
-    "textAlign": "center",
-    "color": "#41B883"
-  },
   "slider": {
     "width": "750",
     "height": "400"
@@ -3038,13 +3219,77 @@ module.exports = {
     "bottom": 0,
     "height": "60",
     "itemSize": "10",
-    "itemColor": "#DDDDDD",
-    "itemSelectedColor": "rgb(0,180,255)"
+    "itemColor": "#ffffff",
+    "itemSelectedColor": "#b4282d"
+  },
+  "slogan": {
+    "display": "flex",
+    "backgroundColor": "#ffffff",
+    "flexDirection": "row",
+    "height": "66",
+    "alignItems": "center"
+  },
+  "slogan-item": {
+    "fontFamily": "iconfont",
+    "fontSize": "26",
+    "flex": 1,
+    "textAlign": "center",
+    "color": "#b4282d"
+  },
+  "makers-block": {
+    "marginTop": "12",
+    "justifyContent": "center",
+    "backgroundColor": "#ffffff"
+  },
+  "makers-title": {
+    "textAlign": "center",
+    "marginTop": "30",
+    "marginBottom": "26",
+    "fontSize": "30"
+  },
+  "makers-box": {
+    "width": "750",
+    "flexDirection": "row",
+    "flexWrap": "wrap",
+    "justifyContent": "center"
+  },
+  "goods-recommend-box": {
+    "position": "relative",
+    "backgroundColor": "#ffffff",
+    "marginTop": "10",
+    "paddingBottom": "15"
+  },
+  "iconfont": {
+    "fontFamily": "iconfont"
+  },
+  "good-list-container": {
+    "flexDirection": "column",
+    "justifyContent": "center",
+    "backgroundColor": "#ffffff",
+    "paddingTop": "30",
+    "marginTop": "12",
+    "marginBottom": "12"
+  },
+  "good-list-title": {
+    "textAlign": "center",
+    "color": "#333333",
+    "width": "750",
+    "paddingTop": "10",
+    "paddingRight": "10",
+    "paddingBottom": "10",
+    "paddingLeft": "10",
+    "fontSize": "30"
+  },
+  "good-list-box": {
+    "width": "750",
+    "flexDirection": "row",
+    "flexWrap": "wrap",
+    "justifyContent": "center"
   }
 }
 
 /***/ }),
-/* 14 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -3058,21 +3303,50 @@ var _button = __webpack_require__(0);
 
 var _button2 = _interopRequireDefault(_button);
 
-var _homeheader = __webpack_require__(15);
+var _homeheader = __webpack_require__(16);
 
 var _homeheader2 = _interopRequireDefault(_homeheader);
 
-var _headertab = __webpack_require__(19);
+var _headertab = __webpack_require__(20);
 
 var _headertab2 = _interopRequireDefault(_headertab);
 
-var _labels = __webpack_require__(27);
+var _labels = __webpack_require__(28);
 
 var _labels2 = _interopRequireDefault(_labels);
 
+var _goodcard_c = __webpack_require__(1);
+
+var _goodcard_c2 = _interopRequireDefault(_goodcard_c);
+
+var _goodcard_s = __webpack_require__(35);
+
+var _goodcard_s2 = _interopRequireDefault(_goodcard_s);
+
+var _goodsRecommend = __webpack_require__(39);
+
+var _goodsRecommend2 = _interopRequireDefault(_goodsRecommend);
+
+var _goodcard_cc = __webpack_require__(43);
+
+var _goodcard_cc2 = _interopRequireDefault(_goodcard_cc);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-// eslint-disable-next-line no-undef
+function _toConsumableArray(arr) { if (Array.isArray(arr)) { for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) { arr2[i] = arr[i]; } return arr2; } else { return Array.from(arr); } } //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3101,11 +3375,12 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //
 //
 
+// eslint-disable-next-line no-undef
 var dom = weex.requireModule('dom');
 // eslint-disable-next-line no-undef
 var animation = weex.requireModule('animation');
 exports.default = {
-  components: { Labels: _labels2.default, HeaderTab: _headertab2.default, CButton: _button2.default, HomeHeader: _homeheader2.default },
+  components: { CcGoodCard: _goodcard_cc2.default, GoodsRecommend: _goodsRecommend2.default, SGoodCard: _goodcard_s2.default, CGoodCard: _goodcard_c2.default, Labels: _labels2.default, HeaderTab: _headertab2.default, CButton: _button2.default, HomeHeader: _homeheader2.default },
   data: function data() {
     return {
       tabs: [{
@@ -3150,12 +3425,18 @@ exports.default = {
         selected: false
       }],
       labels: ['推荐', '限时购', '新品', '居家', '餐厨', '配件', '服装', '电器', '洗护', '杂货'],
-      lists: ['https://gd2.alicdn.com/bao/uploaded/i2/T14H1LFwBcXXXXXXXX_!!0-item_pic.jpg', 'https://gd1.alicdn.com/bao/uploaded/i1/TB1PXJCJFXXXXciXFXXXXXXXXXX_!!0-item_pic.jpg', 'https://gd3.alicdn.com/bao/uploaded/i3/TB1x6hYLXXXXXazXVXXXXXXXXXX_!!0-item_pic.jpg', 'https://gd2.alicdn.com/bao/uploaded/i2/T14H1LFwBcXXXXXXXX_!!0-item_pic.jpg'],
+      sliderLists: [],
+      makers: {},
+      headerNew: {},
+      goodsNew: [],
+      headerHot: {},
+      goodsHot: [],
+      goodsList: [],
       showMoreLabels: false,
       moreIconClicked: false,
       headerTabSize: {},
       labelsSize: {},
-      offset: 200,
+      topOffset: -300,
       refreshIndicatorText: '下拉刷新',
       refreshing: false,
       loading: false
@@ -3164,6 +3445,23 @@ exports.default = {
   mounted: function mounted() {
     this.setNavTitle('Awesome Project');
     this.computeHeadTabSize();
+  },
+  created: function created() {
+    var _this = this;
+
+    this.get('api/home/index', function (res) {
+      var result = res.data.result;
+      _this.sliderLists = result['banners'];
+      _this.makers = result['makers'];
+      _this.headerNew = result['recommend']['head1'];
+      _this.headerHot = result['recommend']['head2'];
+      _this.goodsNew = result['recommend']['goods1'];
+      _this.goodsHot = result['recommend']['goods2'];
+    });
+    this.get('api/home/pullGoods', function (res) {
+      var result = res.data.result;
+      _this.goodsList = result['goods'];
+    });
   },
 
   methods: {
@@ -3175,34 +3473,35 @@ exports.default = {
       this.showHideMoreLabels();
     },
     computeHeadTabSize: function computeHeadTabSize() {
-      var _this = this;
+      var _this2 = this;
 
       dom.getComponentRect(this.$refs.headertab, function (option) {
         if (option.result) {
-          _this.headerTabSize = option.size;
+          _this2.headerTabSize = option.size;
         } else {
-          _this.toast('getComponentRect of headerTag failed!');
+          _this2.toast('getComponentRect of headerTag failed!');
         }
       });
     },
     showHideMoreLabels: function showHideMoreLabels() {
       this.$nextTick(function () {
-        var _this2 = this;
+        var _this3 = this;
 
         if (this.moreIconClicked) {
           animation.transition(this.$refs.labelsRef, {
             styles: {
-              transform: 'translate(0, ' + ((this.headerTabSize.bottom ? this.headerTabSize.bottom : 168) + 200) + 'px)'
+              transform: 'translate(0, ' + ((this.headerTabSize ? this.headerTabSize.bottom : 168) - this.topOffset) + 'px)'
             },
             duration: 300,
             timingFunction: 'ease-in-out',
+            needLayout: true,
             delay: 0
           }, function () {
-            dom.getComponentRect(_this2.$refs.labelsRef, function (option) {
+            dom.getComponentRect(_this3.$refs.labelsRef, function (option) {
               if (option.result) {
-                _this2.labelsSize = option.size;
+                _this3.labelsSize = option.size;
               } else {
-                _this2.toast('getComponentRect of labelsRef failed!');
+                _this3.toast('getComponentRect of labelsRef failed!');
               }
             });
           });
@@ -3214,7 +3513,7 @@ exports.default = {
             duration: 300,
             timingFunction: 'ease-in-out'
           }, function () {
-            _this2.showMoreLabels = false;
+            _this3.showMoreLabels = false;
           });
         }
       });
@@ -3234,41 +3533,52 @@ exports.default = {
       }
     },
     onrefresh: function onrefresh() {
-      var _this3 = this;
+      var _this4 = this;
 
       this.refreshIndicatorText = '刷新中...';
       this.refreshing = true;
       setTimeout(function () {
-        _this3.refreshing = false;
+        _this4.refreshing = false;
       }, 3000);
     },
     onloading: function onloading() {
-      var _this4 = this;
+      var _this5 = this;
 
       this.loading = true;
       setTimeout(function () {
-        _this4.loading = false;
+        _this5.loading = false;
+      }, 1000);
+    },
+    onloadmore: function onloadmore() {
+      var _this6 = this;
+
+      this.loading = true;
+      setTimeout(function () {
+        var _goodsList;
+
+        (_goodsList = _this6.goodsList).push.apply(_goodsList, _toConsumableArray(_this6.goodsHot));
+        _this6.loading = false;
       }, 3000);
     }
   }
 };
 
 /***/ }),
-/* 15 */
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(16)
+__vue_styles__.push(__webpack_require__(17)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(17)
+__vue_exports__ = __webpack_require__(18)
 
 /* template */
-var __vue_template__ = __webpack_require__(18)
+var __vue_template__ = __webpack_require__(19)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -3298,7 +3608,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 16 */
+/* 17 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -3342,7 +3652,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 17 */
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -3370,7 +3680,7 @@ exports.default = {
 };
 
 /***/ }),
-/* 18 */
+/* 19 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -3397,21 +3707,21 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 19 */
+/* 20 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(20)
+__vue_styles__.push(__webpack_require__(21)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(21)
+__vue_exports__ = __webpack_require__(22)
 
 /* template */
-var __vue_template__ = __webpack_require__(26)
+var __vue_template__ = __webpack_require__(27)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -3441,7 +3751,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 20 */
+/* 21 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -3492,7 +3802,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 21 */
+/* 22 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -3502,7 +3812,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _headertabitem = __webpack_require__(22);
+var _headertabitem = __webpack_require__(23);
 
 var _headertabitem2 = _interopRequireDefault(_headertabitem);
 
@@ -3591,21 +3901,21 @@ exports.default = {
 //
 
 /***/ }),
-/* 22 */
+/* 23 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(23)
+__vue_styles__.push(__webpack_require__(24)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(24)
+__vue_exports__ = __webpack_require__(25)
 
 /* template */
-var __vue_template__ = __webpack_require__(25)
+var __vue_template__ = __webpack_require__(26)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -3635,7 +3945,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 23 */
+/* 24 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -3658,7 +3968,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 24 */
+/* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -3701,7 +4011,7 @@ exports.default = {
 };
 
 /***/ }),
-/* 25 */
+/* 26 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -3718,7 +4028,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 26 */
+/* 27 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -3758,21 +4068,21 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 27 */
+/* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(28)
+__vue_styles__.push(__webpack_require__(29)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(29)
+__vue_exports__ = __webpack_require__(30)
 
 /* template */
-var __vue_template__ = __webpack_require__(30)
+var __vue_template__ = __webpack_require__(31)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -3802,7 +4112,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 28 */
+/* 29 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -3832,7 +4142,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 29 */
+/* 30 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -3855,17 +4165,24 @@ exports.default = {
   methods: {
     onLabelClick: function onLabelClick(index) {
       this.$emit('labelClick', index);
+    },
+
+    stopPropagation: function stopPropagation(e) {
+      return true;
     }
   }
 };
 
 /***/ }),
-/* 30 */
+/* 31 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
-    staticClass: ["wrapper"]
+    staticClass: ["wrapper"],
+    on: {
+      "stopPropagation": _vm.stopPropagation
+    }
   }, _vm._l((_vm.labels), function(label, index) {
     return _c('text', {
       key: index,
@@ -3881,7 +4198,617 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 31 */
+/* 32 */
+/***/ (function(module, exports) {
+
+module.exports = {
+  "container": {
+    "flexDirection": "column",
+    "paddingLeft": "15",
+    "paddingRight": "15"
+  },
+  "img": {
+    "backgroundColor": "#efefef",
+    "width": "286",
+    "height": "286"
+  },
+  "title": {
+    "fontSize": "28",
+    "color": "#333333",
+    "width": "286",
+    "marginTop": "16",
+    "overflow": "hidden",
+    "textOverflow": "ellipsis",
+    "lines": 1,
+    "whiteSpace": "nowrap"
+  },
+  "info": {
+    "fontSize": "24",
+    "width": "286",
+    "marginTop": "8",
+    "color": "#7f7f7f",
+    "overflow": "hidden",
+    "textOverflow": "ellipsis",
+    "lines": 1,
+    "whiteSpace": "nowrap"
+  },
+  "price": {
+    "fontSize": "28",
+    "width": "286",
+    "marginTop": "16",
+    "color": "#b4282d",
+    "overflow": "hidden",
+    "lines": 1,
+    "whiteSpace": "nowrap",
+    "textOverflow": "ellipsis"
+  }
+}
+
+/***/ }),
+/* 33 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+//
+//
+//
+//
+//
+//
+//
+//
+
+exports.default = {
+  name: 'c-good-card',
+  props: {
+    good: {}
+  }
+};
+
+/***/ }),
+/* 34 */
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: ["container"]
+  }, [_c('image', {
+    staticClass: ["img"],
+    attrs: {
+      "src": _vm.good.img
+    }
+  }), _c('text', {
+    staticClass: ["title"]
+  }, [_vm._v(_vm._s(_vm.good.tlt))]), _c('text', {
+    staticClass: ["info"]
+  }, [_vm._v(_vm._s(_vm.good.info))]), _c('text', {
+    staticClass: ["price"]
+  }, [_vm._v("￥" + _vm._s(_vm.good.price))])])
+},staticRenderFns: []}
+module.exports.render._withStripped = true
+
+/***/ }),
+/* 35 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var __vue_exports__, __vue_options__
+var __vue_styles__ = []
+
+/* styles */
+__vue_styles__.push(__webpack_require__(36)
+)
+
+/* script */
+__vue_exports__ = __webpack_require__(37)
+
+/* template */
+var __vue_template__ = __webpack_require__(38)
+__vue_options__ = __vue_exports__ = __vue_exports__ || {}
+if (
+  typeof __vue_exports__.default === "object" ||
+  typeof __vue_exports__.default === "function"
+) {
+if (Object.keys(__vue_exports__).some(function (key) { return key !== "default" && key !== "__esModule" })) {console.error("named exports are not supported in *.vue files.")}
+__vue_options__ = __vue_exports__ = __vue_exports__.default
+}
+if (typeof __vue_options__ === "function") {
+  __vue_options__ = __vue_options__.options
+}
+__vue_options__.__file = "/Users/weiquanyun/WeexProjects/awesome-project/src/components/goodcard_s.vue"
+__vue_options__.render = __vue_template__.render
+__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
+__vue_options__._scopeId = "data-v-a56a1fc8"
+__vue_options__.style = __vue_options__.style || {}
+__vue_styles__.forEach(function (module) {
+  for (var name in module) {
+    __vue_options__.style[name] = module[name]
+  }
+})
+if (typeof __register_static_styles__ === "function") {
+  __register_static_styles__(__vue_options__._scopeId, __vue_styles__)
+}
+
+module.exports = __vue_exports__
+
+
+/***/ }),
+/* 36 */
+/***/ (function(module, exports) {
+
+module.exports = {
+  "container": {
+    "width": "350",
+    "height": "226",
+    "paddingTop": "20",
+    "paddingRight": "20",
+    "paddingBottom": "20",
+    "paddingLeft": "20",
+    "backgroundColor": "#efefef",
+    "marginTop": "5",
+    "marginRight": "5",
+    "marginBottom": "5",
+    "marginLeft": "5"
+  },
+  "name": {
+    "position": "relative",
+    "color": "#333333",
+    "fontSize": "28"
+  },
+  "price": {
+    "flexDirection": "row",
+    "position": "relative",
+    "marginTop": "10",
+    "alignItems": "flex-end"
+  },
+  "price-num": {
+    "fontSize": "36",
+    "color": "#333333"
+  },
+  "price-text": {
+    "color": "#333333",
+    "fontSize": "24"
+  },
+  "state": {
+    "position": "relative",
+    "fontSize": "20",
+    "color": "#b8a989",
+    "width": "70",
+    "paddingTop": "5",
+    "paddingRight": "5",
+    "paddingBottom": "5",
+    "paddingLeft": "5",
+    "marginTop": "10",
+    "lineHeight": "20",
+    "textAlign": "center",
+    "borderWidth": "1",
+    "borderColor": "#b8a989",
+    "borderRadius": "4"
+  },
+  "img": {
+    "width": "350",
+    "height": "226",
+    "position": "absolute",
+    "top": "0",
+    "left": "0"
+  }
+}
+
+/***/ }),
+/* 37 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+exports.default = {
+  name: 's-good-card',
+  props: {
+    item: {}
+  }
+};
+
+/***/ }),
+/* 38 */
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: ["container"]
+  }, [_c('image', {
+    staticClass: ["img"],
+    attrs: {
+      "resize": "cover",
+      "src": _vm.item.bg
+    }
+  }), _c('text', {
+    staticClass: ["name"]
+  }, [_vm._v(_vm._s(_vm.item.name))]), _c('div', {
+    staticClass: ["price"]
+  }, [_c('text', {
+    staticClass: ["price-num"]
+  }, [_vm._v(_vm._s(_vm.item.price))]), _c('text', {
+    staticClass: ["price-text"]
+  }, [_vm._v("元起")])]), (_vm.item.state) ? _c('text', {
+    staticClass: ["state"]
+  }, [_vm._v(_vm._s(_vm.item.state))]) : _vm._e()])
+},staticRenderFns: []}
+module.exports.render._withStripped = true
+
+/***/ }),
+/* 39 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var __vue_exports__, __vue_options__
+var __vue_styles__ = []
+
+/* styles */
+__vue_styles__.push(__webpack_require__(40)
+)
+
+/* script */
+__vue_exports__ = __webpack_require__(41)
+
+/* template */
+var __vue_template__ = __webpack_require__(42)
+__vue_options__ = __vue_exports__ = __vue_exports__ || {}
+if (
+  typeof __vue_exports__.default === "object" ||
+  typeof __vue_exports__.default === "function"
+) {
+if (Object.keys(__vue_exports__).some(function (key) { return key !== "default" && key !== "__esModule" })) {console.error("named exports are not supported in *.vue files.")}
+__vue_options__ = __vue_exports__ = __vue_exports__.default
+}
+if (typeof __vue_options__ === "function") {
+  __vue_options__ = __vue_options__.options
+}
+__vue_options__.__file = "/Users/weiquanyun/WeexProjects/awesome-project/src/components/goods-recommend.vue"
+__vue_options__.render = __vue_template__.render
+__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
+__vue_options__._scopeId = "data-v-a1d0b60c"
+__vue_options__.style = __vue_options__.style || {}
+__vue_styles__.forEach(function (module) {
+  for (var name in module) {
+    __vue_options__.style[name] = module[name]
+  }
+})
+if (typeof __register_static_styles__ === "function") {
+  __register_static_styles__(__vue_options__._scopeId, __vue_styles__)
+}
+
+module.exports = __vue_exports__
+
+
+/***/ }),
+/* 40 */
+/***/ (function(module, exports) {
+
+module.exports = {
+  "iconfont": {
+    "fontFamily": "iconfont"
+  },
+  "container": {
+    "flexDirection": "column"
+  },
+  "header": {
+    "justifyContent": "center",
+    "alignItems": "center",
+    "width": "750",
+    "height": "260"
+  },
+  "header-title": {
+    "textAlign": "center",
+    "fontSize": "34"
+  },
+  "header-nav": {
+    "textAlign": "center",
+    "fontSize": "26",
+    "width": "220",
+    "paddingTop": "10",
+    "paddingRight": "10",
+    "paddingBottom": "10",
+    "paddingLeft": "10",
+    "marginTop": "20",
+    "borderRadius": "4"
+  },
+  "title-new": {
+    "color": "#8ba0b6"
+  },
+  "nav-new": {
+    "color": "#8ba0b6",
+    "backgroundColor": "#D8E5F1"
+  },
+  "title-hot": {
+    "color": "#b4a078"
+  },
+  "nav-hot": {
+    "color": "#b4a078",
+    "backgroundColor": "#f4e9cb"
+  },
+  "header-bg": {
+    "position": "absolute",
+    "top": 0,
+    "left": 0,
+    "bottom": 0,
+    "right": 0
+  },
+  "goods-list": {
+    "flexDirection": "row",
+    "paddingBottom": "30",
+    "paddingTop": "30",
+    "paddingLeft": "15",
+    "paddingRight": "15"
+  },
+  "more-box": {
+    "paddingLeft": "15",
+    "paddingRight": "15"
+  },
+  "see-more": {
+    "height": "286",
+    "width": "286",
+    "fontSize": "28",
+    "lineHeight": "40",
+    "borderWidth": "6",
+    "paddingTop": "120",
+    "paddingBottom": "120",
+    "borderColor": "#f4f4f4",
+    "textAlign": "center"
+  }
+}
+
+/***/ }),
+/* 41 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _goodcard_c = __webpack_require__(1);
+
+var _goodcard_c2 = _interopRequireDefault(_goodcard_c);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+exports.default = {
+  components: { CGoodCard: _goodcard_c2.default },
+  name: 'goods-recommend',
+  props: {
+    head: {},
+    goods: {},
+    type: 0
+  }
+}; //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/***/ }),
+/* 42 */
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: ["container"]
+  }, [_c('div', {
+    staticClass: ["header"]
+  }, [_c('image', {
+    staticClass: ["header-bg"],
+    attrs: {
+      "resize": "cover",
+      "src": _vm.head.tltBg
+    }
+  }), _c('text', {
+    staticClass: ["header-title"],
+    class: [_vm.type === 0 ? 'title-new' : 'title-hot']
+  }, [_vm._v(_vm._s(_vm.head.tlt))]), _c('text', {
+    staticClass: ["header-nav", "iconfont"],
+    class: [_vm.type === 0 ? 'nav-new' : 'nav-hot']
+  }, [_vm._v("查看全部 ")])]), _c('scroller', {
+    staticClass: ["goods-list"],
+    attrs: {
+      "scrollDirection": "horizontal",
+      "showScrollbar": "false"
+    }
+  }, [_vm._l((_vm.goods), function(good, index) {
+    return _c('c-good-card', {
+      key: index,
+      attrs: {
+        "good": good
+      }
+    })
+  }), _vm._m(0)], 2)])
+},staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: ["more-box"]
+  }, [_c('text', {
+    staticClass: ["see-more"]
+  }, [_vm._v("查看全部")])])
+}]}
+module.exports.render._withStripped = true
+
+/***/ }),
+/* 43 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var __vue_exports__, __vue_options__
+var __vue_styles__ = []
+
+/* styles */
+__vue_styles__.push(__webpack_require__(44)
+)
+
+/* script */
+__vue_exports__ = __webpack_require__(45)
+
+/* template */
+var __vue_template__ = __webpack_require__(46)
+__vue_options__ = __vue_exports__ = __vue_exports__ || {}
+if (
+  typeof __vue_exports__.default === "object" ||
+  typeof __vue_exports__.default === "function"
+) {
+if (Object.keys(__vue_exports__).some(function (key) { return key !== "default" && key !== "__esModule" })) {console.error("named exports are not supported in *.vue files.")}
+__vue_options__ = __vue_exports__ = __vue_exports__.default
+}
+if (typeof __vue_options__ === "function") {
+  __vue_options__ = __vue_options__.options
+}
+__vue_options__.__file = "/Users/weiquanyun/WeexProjects/awesome-project/src/components/goodcard_cc.vue"
+__vue_options__.render = __vue_template__.render
+__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
+__vue_options__._scopeId = "data-v-38e09af2"
+__vue_options__.style = __vue_options__.style || {}
+__vue_styles__.forEach(function (module) {
+  for (var name in module) {
+    __vue_options__.style[name] = module[name]
+  }
+})
+if (typeof __register_static_styles__ === "function") {
+  __register_static_styles__(__vue_options__._scopeId, __vue_styles__)
+}
+
+module.exports = __vue_exports__
+
+
+/***/ }),
+/* 44 */
+/***/ (function(module, exports) {
+
+module.exports = {
+  "container": {
+    "flexDirection": "column",
+    "marginTop": "10",
+    "marginRight": "10",
+    "marginBottom": "10",
+    "marginLeft": "10"
+  },
+  "img": {
+    "backgroundColor": "#efefef",
+    "width": "350",
+    "height": "350"
+  },
+  "title": {
+    "fontSize": "28",
+    "color": "#333333",
+    "width": "286",
+    "marginTop": "16",
+    "overflow": "hidden",
+    "textOverflow": "ellipsis",
+    "lines": 1,
+    "whiteSpace": "nowrap"
+  },
+  "info": {
+    "fontSize": "24",
+    "width": "350",
+    "height": "65",
+    "paddingLeft": "10",
+    "paddingRight": "10",
+    "paddingTop": "15",
+    "paddingBottom": "15",
+    "color": "#9f8a60",
+    "overflow": "hidden",
+    "textOverflow": "ellipsis",
+    "lines": 1,
+    "whiteSpace": "nowrap",
+    "backgroundColor": "#F1ECE2"
+  },
+  "price": {
+    "fontSize": "28",
+    "width": "286",
+    "marginTop": "8",
+    "color": "#b4282d",
+    "overflow": "hidden",
+    "lines": 1,
+    "whiteSpace": "nowrap",
+    "textOverflow": "ellipsis"
+  }
+}
+
+/***/ }),
+/* 45 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+//
+//
+//
+//
+//
+//
+//
+//
+
+exports.default = {
+  name: 'cc-good-card',
+  props: {
+    good: {}
+  }
+};
+
+/***/ }),
+/* 46 */
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: ["container"]
+  }, [_c('image', {
+    staticClass: ["img"],
+    attrs: {
+      "src": _vm.good.img
+    }
+  }), _c('text', {
+    staticClass: ["info"]
+  }, [_vm._v(_vm._s(_vm.good.info))]), _c('text', {
+    staticClass: ["title"]
+  }, [_vm._v(_vm._s(_vm.good.tlt))]), _c('text', {
+    staticClass: ["price"]
+  }, [_vm._v("￥" + _vm._s(_vm.good.price))])])
+},staticRenderFns: []}
+module.exports.render._withStripped = true
+
+/***/ }),
+/* 47 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -3898,7 +4825,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }), (_vm.showMoreLabels) ? _c('labels', {
     ref: "labelsRef",
     style: {
-      top: -200 + 'px'
+      top: _vm.topOffset + 'px'
     },
     attrs: {
       "labels": _vm.labels
@@ -3909,8 +4836,12 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }) : _vm._e(), _c('scroller', {
     staticClass: ["main-scroller"],
     attrs: {
+      "offsetAccuracy": "300",
       "loadmoreoffset": "300",
       "showScrollbar": "false"
+    },
+    on: {
+      "loadmore": _vm.onloadmore
     }
   }, [_c('refresh', {
     staticClass: ["refresh"],
@@ -3928,28 +4859,59 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     attrs: {
       "autoPlay": "true"
     }
-  }, [_vm._l((_vm.lists), function(src, index) {
+  }, [_vm._l((_vm.sliderLists), function(image, index) {
     return _c('div', {
       key: index
     }, [_c('image', {
       staticClass: ["slider-image"],
       attrs: {
         "resize": "cover",
-        "src": src
+        "src": image.src
       }
     })])
   }), _c('indicator', {
     staticClass: ["indicator"]
-  })], 2), _vm._l((_vm.lists), function(src, index) {
-    return _c('div', {
+  })], 2), _vm._m(0), _c('div', {
+    staticClass: ["makers-block"]
+  }, [_c('text', {
+    staticClass: ["makers-title", "iconfont"]
+  }, [_vm._v(_vm._s(_vm.makers.title) + " ")]), _c('div', {
+    staticClass: ["makers-box"]
+  }, _vm._l((_vm.makers.items), function(item, index) {
+    return _c('s-good-card', {
       key: index,
-      staticClass: ["cell"]
-    }, [_c('div', {
-      staticClass: ["panel"]
-    }, [_c('text', {
-      staticClass: ["text"]
-    }, [_vm._v(_vm._s(index))])])])
-  }), _c('loading', {
+      attrs: {
+        "item": item
+      }
+    })
+  }))]), _c('goods-recommend', {
+    staticClass: ["goods-recommend-box"],
+    attrs: {
+      "type": 0,
+      "head": _vm.headerNew,
+      "goods": _vm.goodsNew
+    }
+  }), _c('goods-recommend', {
+    staticClass: ["goods-recommend-box"],
+    attrs: {
+      "type": 1,
+      "head": _vm.headerHot,
+      "goods": _vm.goodsHot
+    }
+  }), _c('div', {
+    staticClass: ["good-list-container"]
+  }, [_c('text', {
+    staticClass: ["good-list-title"]
+  }, [_vm._v("猜你喜欢")]), _c('div', {
+    staticClass: ["good-list-box"]
+  }, _vm._l((_vm.goodsList), function(good, index) {
+    return _c('cc-good-card', {
+      key: index,
+      attrs: {
+        "good": good
+      }
+    })
+  }))]), _c('loading', {
     staticClass: ["loading"],
     attrs: {
       "display": _vm.loading ? 'show' : 'hide'
@@ -3959,26 +4921,36 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }
   }, [_c('text', {
     staticClass: ["loading-indicator-text"]
-  }, [_vm._v("加载中...")])])], 2)], 1)
-},staticRenderFns: []}
+  }, [_vm._v("加载中...")])])], 1)], 1)
+},staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: ["slogan"]
+  }, [_c('text', {
+    staticClass: ["slogan-item"]
+  }, [_vm._v(" 网易自营品牌")]), _c('text', {
+    staticClass: ["slogan-item"]
+  }, [_vm._v(" 30天无忧退货")]), _c('text', {
+    staticClass: ["slogan-item"]
+  }, [_vm._v(" 48小时快速退款")])])
+}]}
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 32 */
+/* 48 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(33)
+__vue_styles__.push(__webpack_require__(49)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(34)
+__vue_exports__ = __webpack_require__(50)
 
 /* template */
-var __vue_template__ = __webpack_require__(43)
+var __vue_template__ = __webpack_require__(59)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -4008,7 +4980,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 33 */
+/* 49 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -4027,7 +4999,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 34 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4037,7 +5009,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _tabbar = __webpack_require__(35);
+var _tabbar = __webpack_require__(51);
 
 var _tabbar2 = _interopRequireDefault(_tabbar);
 
@@ -4117,21 +5089,21 @@ exports.default = {
 };
 
 /***/ }),
-/* 35 */
+/* 51 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(36)
+__vue_styles__.push(__webpack_require__(52)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(37)
+__vue_exports__ = __webpack_require__(53)
 
 /* template */
-var __vue_template__ = __webpack_require__(42)
+var __vue_template__ = __webpack_require__(58)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -4161,24 +5133,35 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 36 */
+/* 52 */
 /***/ (function(module, exports) {
 
 module.exports = {
+  "container": {
+    "width": "750",
+    "flexDirection": "column"
+  },
+  "tab-line": {
+    "position": "fixed",
+    "bottom": "100",
+    "width": "750",
+    "height": "1",
+    "backgroundColor": "#efefef"
+  },
   "tabbar": {
     "backgroundColor": "#ffffff",
     "position": "fixed",
     "bottom": 0,
     "left": 0,
     "right": 0,
-    "height": "100",
+    "height": "99",
     "flexWrap": "nowrap",
     "flexDirection": "row"
   }
 }
 
 /***/ }),
-/* 37 */
+/* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4188,7 +5171,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _tabitem = __webpack_require__(38);
+var _tabitem = __webpack_require__(54);
 
 var _tabitem2 = _interopRequireDefault(_tabitem);
 
@@ -4247,23 +5230,26 @@ exports.default = {
 //
 //
 //
+//
+//
+//
 
 /***/ }),
-/* 38 */
+/* 54 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __vue_exports__, __vue_options__
 var __vue_styles__ = []
 
 /* styles */
-__vue_styles__.push(__webpack_require__(39)
+__vue_styles__.push(__webpack_require__(55)
 )
 
 /* script */
-__vue_exports__ = __webpack_require__(40)
+__vue_exports__ = __webpack_require__(56)
 
 /* template */
-var __vue_template__ = __webpack_require__(41)
+var __vue_template__ = __webpack_require__(57)
 __vue_options__ = __vue_exports__ = __vue_exports__ || {}
 if (
   typeof __vue_exports__.default === "object" ||
@@ -4293,7 +5279,7 @@ module.exports = __vue_exports__
 
 
 /***/ }),
-/* 39 */
+/* 55 */
 /***/ (function(module, exports) {
 
 module.exports = {
@@ -4345,7 +5331,7 @@ module.exports = {
 }
 
 /***/ }),
-/* 40 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4428,7 +5414,7 @@ exports.default = {
 };
 
 /***/ }),
-/* 41 */
+/* 57 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -4454,11 +5440,15 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 42 */
+/* 58 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
+    staticClass: ["container"]
+  }, [_c('div', {
+    staticClass: ["tab-line"]
+  }), _c('div', {
     staticClass: ["tabbar"]
   }, _vm._l((_vm.tabItems), function(item) {
     return _c('tab-item', _vm._b({
@@ -4469,12 +5459,12 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
         "tabItemOnClick": _vm.tabItemOnClick
       }
     }, 'tab-item', item, false))
-  }))
+  }))])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 
 /***/ }),
-/* 43 */
+/* 59 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;

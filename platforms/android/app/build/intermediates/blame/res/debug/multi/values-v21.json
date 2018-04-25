@@ -11,7 +11,14 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 218
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 285
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
                 }
             },
             {
@@ -80,7 +108,14 @@
                     "endOffset": 769
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 90,
+                        "endOffset": 141
+                    }
                 }
             },
             {
@@ -92,7 +127,14 @@
                     "endOffset": 872
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 102,
+                        "endOffset": 244
+                    }
                 }
             },
             {
@@ -104,7 +146,14 @@
                     "endOffset": 975
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 102,
+                        "endOffset": 347
+                    }
                 }
             },
             {
@@ -116,7 +165,14 @@
                     "endOffset": 1080
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 104,
+                        "endOffset": 452
+                    }
                 }
             },
             {
@@ -128,7 +184,14 @@
                     "endOffset": 1187
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 106,
+                        "endOffset": 559
+                    }
                 }
             },
             {
@@ -140,7 +203,14 @@
                     "endOffset": 1296
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 108,
+                        "endOffset": 668
+                    }
                 }
             },
             {
@@ -152,7 +222,14 @@
                     "endOffset": 1405
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 108,
+                        "endOffset": 777
+                    }
                 }
             },
             {
@@ -164,7 +241,14 @@
                     "endOffset": 1514
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 108,
+                        "endOffset": 886
+                    }
                 }
             },
             {
@@ -176,7 +260,14 @@
                     "endOffset": 1623
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 108,
+                        "endOffset": 995
+                    }
                 }
             },
             {
@@ -188,7 +279,14 @@
                     "endOffset": 1732
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 108,
+                        "endOffset": 1104
+                    }
                 }
             },
             {
@@ -200,7 +298,14 @@
                     "endOffset": 1839
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 106,
+                        "endOffset": 1211
+                    }
                 }
             },
             {
@@ -212,7 +317,14 @@
                     "endOffset": 1942
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
                 }
             },
             {
@@ -224,7 +336,14 @@
                     "endOffset": 2061
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 118,
+                        "endOffset": 1433
+                    }
                 }
             },
             {
@@ -237,7 +356,15 @@
                     "endOffset": 2216
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1588
+                    }
                 }
             },
             {
@@ -250,7 +377,15 @@
                     "endOffset": 2371
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1593,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
                 }
             },
             {
@@ -262,7 +397,14 @@
                     "endOffset": 2476
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1748,
+                        "endColumn": 104,
+                        "endOffset": 1848
+                    }
                 }
             },
             {
@@ -274,7 +416,14 @@
                     "endOffset": 2597
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 120,
+                        "endOffset": 1969
+                    }
                 }
             },
             {
@@ -286,7 +435,14 @@
                     "endOffset": 2698
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 100,
+                        "endOffset": 2070
+                    }
                 }
             },
             {
@@ -299,7 +455,15 @@
                     "endOffset": 2845
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2075,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 2217
+                    }
                 }
             },
             {
@@ -312,7 +476,15 @@
                     "endOffset": 2986
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 2358
+                    }
                 }
             },
             {
@@ -324,7 +496,14 @@
                     "endOffset": 3089
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2363,
+                        "endColumn": 102,
+                        "endOffset": 2461
+                    }
                 }
             },
             {
@@ -336,7 +515,14 @@
                     "endOffset": 3208
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2466,
+                        "endColumn": 118,
+                        "endOffset": 2580
+                    }
                 }
             },
             {
@@ -348,7 +534,14 @@
                     "endOffset": 3315
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 106,
+                        "endOffset": 2687
+                    }
                 }
             },
             {
@@ -360,7 +553,14 @@
                     "endOffset": 3418
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2692,
+                        "endColumn": 102,
+                        "endOffset": 2790
+                    }
                 }
             },
             {
@@ -373,7 +573,15 @@
                     "endOffset": 3573
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2945
+                    }
                 }
             },
             {
@@ -386,7 +594,15 @@
                     "endOffset": 3744
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3116
+                    }
                 }
             },
             {
@@ -399,7 +615,15 @@
                     "endOffset": 3893
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 3265
+                    }
                 }
             },
             {
@@ -412,7 +636,15 @@
                     "endOffset": 4058
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 3430
+                    }
                 }
             },
             {
@@ -425,7 +657,15 @@
                     "endOffset": 4215
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3435,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 3587
+                    }
                 }
             },
             {
@@ -438,7 +678,15 @@
                     "endOffset": 4366
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 3738
+                    }
                 }
             },
             {
@@ -450,7 +698,14 @@
                     "endOffset": 4485
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
+                    }
                 }
             },
             {
@@ -463,7 +718,15 @@
                     "endOffset": 4857
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3862,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4229
+                    }
                 }
             },
             {
@@ -476,7 +739,15 @@
                     "endOffset": 5006
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
+                    }
                 }
             },
             {
@@ -489,7 +760,15 @@
                     "endOffset": 5155
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4527
+                    }
                 }
             },
             {
@@ -501,7 +780,14 @@
                     "endOffset": 5267
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
                 }
             },
             {
@@ -513,7 +799,14 @@
                     "endOffset": 5414
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
+                    }
                 }
             },
             {
@@ -526,7 +819,15 @@
                     "endOffset": 5567
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
+                    }
                 }
             },
             {
@@ -539,7 +840,15 @@
                     "endOffset": 5714
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
+                    }
                 }
             },
             {
@@ -551,7 +860,14 @@
                     "endOffset": 5789
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
                 }
             },
             {
@@ -563,7 +879,14 @@
                     "endOffset": 5878
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
                 }
             },
             {
@@ -575,7 +898,14 @@
                     "endOffset": 5965
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
                 }
             },
             {
@@ -587,7 +917,14 @@
                     "endOffset": 6066
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
                 }
             },
             {
@@ -599,7 +936,14 @@
                     "endOffset": 6169
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
                 }
             },
             {
@@ -609,827 +953,1327 @@
                     "startOffset": 6174,
                     "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 9021
+                    "endOffset": 9237
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 8609
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 9026,
+                    "startOffset": 9242,
                     "endLine": 119,
                     "endColumn": 12,
-                    "endOffset": 9207
+                    "endOffset": 9423
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8614,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 8795
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 9212,
+                    "startOffset": 9428,
                     "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12071
+                    "endOffset": 12503
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8800,
+                        "endLine": 153,
+                        "endColumn": 12,
+                        "endOffset": 11875
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12076,
+                    "startOffset": 12508,
                     "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12269
+                    "endOffset": 12701
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 11880,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12073
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12274,
+                    "startOffset": 12706,
                     "endLine": 169,
                     "endColumn": 12,
-                    "endOffset": 12469
+                    "endOffset": 12901
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 12474,
+                    "startOffset": 12906,
                     "endLine": 172,
                     "endColumn": 12,
-                    "endOffset": 12680
+                    "endOffset": 13112
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 261
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 12685,
+                    "startOffset": 13117,
                     "endLine": 174,
                     "endColumn": 12,
-                    "endOffset": 12803
+                    "endOffset": 13235
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 12808,
+                    "startOffset": 13240,
                     "endLine": 176,
                     "endColumn": 12,
-                    "endOffset": 12926
+                    "endOffset": 13358
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 12931,
+                    "startOffset": 13363,
                     "endLine": 178,
                     "endColumn": 12,
-                    "endOffset": 13039
+                    "endOffset": 13471
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13044,
+                    "startOffset": 13476,
                     "endLine": 181,
                     "endColumn": 12,
-                    "endOffset": 13222
+                    "endOffset": 13654
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 13227,
+                    "startOffset": 13659,
                     "endLine": 183,
                     "endColumn": 12,
-                    "endOffset": 13353
+                    "endOffset": 13785
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13358,
+                    "startOffset": 13790,
                     "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 13554
+                    "endOffset": 13986
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 13559,
+                    "startOffset": 13991,
                     "endColumn": 88,
-                    "endOffset": 13643
+                    "endOffset": 14075
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 13648,
+                    "startOffset": 14080,
                     "endColumn": 110,
-                    "endOffset": 13754
+                    "endOffset": 14186
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 13759,
+                    "startOffset": 14191,
                     "endLine": 191,
                     "endColumn": 12,
-                    "endOffset": 13987
+                    "endOffset": 14419
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 13992,
+                    "startOffset": 14424,
                     "endColumn": 100,
-                    "endOffset": 14088
+                    "endOffset": 14520
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14093,
+                    "startOffset": 14525,
                     "endColumn": 94,
-                    "endOffset": 14183
+                    "endOffset": 14615
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14188,
+                    "startOffset": 14620,
                     "endColumn": 122,
-                    "endOffset": 14306
+                    "endOffset": 14738
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 14311,
+                    "startOffset": 14743,
                     "endColumn": 128,
-                    "endOffset": 14435
+                    "endOffset": 14867
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 14440,
+                    "startOffset": 14872,
                     "endColumn": 116,
-                    "endOffset": 14552
+                    "endOffset": 14984
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14557,
+                    "startOffset": 14989,
                     "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 14729
+                    "endOffset": 15161
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 14734,
+                    "startOffset": 15166,
                     "endColumn": 98,
-                    "endOffset": 14828
+                    "endOffset": 15260
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 14833,
+                    "startOffset": 15265,
                     "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 14963
+                    "endOffset": 15395
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 14968,
+                    "startOffset": 15400,
                     "endLine": 204,
                     "endColumn": 12,
-                    "endOffset": 15106
+                    "endOffset": 15538
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15111,
+                    "startOffset": 15543,
                     "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 15241
+                    "endOffset": 15673
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15246,
+                    "startOffset": 15678,
                     "endLine": 208,
                     "endColumn": 12,
-                    "endOffset": 15360
+                    "endOffset": 15792
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15365,
+                    "startOffset": 15797,
                     "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 15561
+                    "endOffset": 15993
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 15566,
+                    "startOffset": 15998,
                     "endLine": 214,
                     "endColumn": 12,
-                    "endOffset": 15680
+                    "endOffset": 16112
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 15685,
+                    "startOffset": 16117,
                     "endColumn": 92,
-                    "endOffset": 15773
+                    "endOffset": 16205
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 15778,
+                    "startOffset": 16210,
                     "endColumn": 110,
-                    "endOffset": 15884
+                    "endOffset": 16316
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 15889,
+                    "startOffset": 16321,
                     "endColumn": 55,
-                    "endOffset": 15940
+                    "endOffset": 16372
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 15945,
+                    "startOffset": 16377,
                     "endLine": 219,
                     "endColumn": 12,
-                    "endOffset": 16047
+                    "endOffset": 16479
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 15538,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 15640
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 16052,
+                    "startOffset": 16484,
                     "endLine": 223,
                     "endColumn": 12,
-                    "endOffset": 16242
+                    "endOffset": 16674
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 15645,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15835
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 16247,
+                    "startOffset": 16679,
                     "endLine": 225,
                     "endColumn": 12,
-                    "endOffset": 16353
+                    "endOffset": 16785
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15840,
+                        "endLine": 212,
+                        "endColumn": 12,
+                        "endOffset": 15946
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16358,
+                    "startOffset": 16790,
                     "endLine": 227,
                     "endColumn": 12,
-                    "endOffset": 16486
+                    "endOffset": 16918
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 16491,
+                    "startOffset": 16923,
                     "endColumn": 94,
-                    "endOffset": 16581
+                    "endOffset": 17013
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 16586,
+                    "startOffset": 17018,
                     "endColumn": 90,
-                    "endOffset": 16672
+                    "endOffset": 17104
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 16677,
+                    "startOffset": 17109,
                     "endColumn": 90,
-                    "endOffset": 16763
+                    "endOffset": 17195
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 16768,
+                    "startOffset": 17200,
                     "endColumn": 116,
-                    "endOffset": 16880
+                    "endOffset": 17312
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 16885,
+                    "startOffset": 17317,
                     "endLine": 233,
                     "endColumn": 12,
-                    "endOffset": 17019
+                    "endOffset": 17451
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 17024,
+                    "startOffset": 17456,
                     "endColumn": 96,
-                    "endOffset": 17116
+                    "endOffset": 17548
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 96,
+                        "endOffset": 358
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 17121,
+                    "startOffset": 17553,
                     "endColumn": 70,
-                    "endOffset": 17187
+                    "endOffset": 17619
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endColumn": 70,
+                        "endOffset": 16683
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 17192,
+                    "startOffset": 17624,
                     "endColumn": 82,
-                    "endOffset": 17270
+                    "endOffset": 17702
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 16688,
+                        "endColumn": 82,
+                        "endOffset": 16766
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 17275,
+                    "startOffset": 17707,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 17893
+                    "endOffset": 18382
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 16771,
+                        "endLine": 232,
+                        "endColumn": 12,
+                        "endOffset": 17446
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 17898,
+                    "startOffset": 18387,
                     "endColumn": 56,
-                    "endOffset": 17950
+                    "endOffset": 18439
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 17451,
+                        "endColumn": 56,
+                        "endOffset": 17503
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 17955,
+                    "startOffset": 18444,
                     "endColumn": 57,
-                    "endOffset": 18008
+                    "endOffset": 18497
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 17508,
+                        "endColumn": 57,
+                        "endOffset": 17561
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 18013,
+                    "startOffset": 18502,
                     "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 18632
+                    "endOffset": 19191
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 17566,
+                        "endLine": 246,
+                        "endColumn": 12,
+                        "endOffset": 18255
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 18637,
+                    "startOffset": 19196,
                     "endLine": 272,
                     "endColumn": 12,
-                    "endOffset": 19268
+                    "endOffset": 19897
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 18260,
+                        "endLine": 258,
+                        "endColumn": 12,
+                        "endOffset": 18961
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 19273,
+                    "startOffset": 19902,
                     "endColumn": 118,
-                    "endOffset": 19387
+                    "endOffset": 20016
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 18966,
+                        "endColumn": 118,
+                        "endOffset": 19080
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 19392,
+                    "startOffset": 20021,
                     "endColumn": 128,
-                    "endOffset": 19516
+                    "endOffset": 20145
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 19085,
+                        "endColumn": 128,
+                        "endOffset": 19209
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 19521,
+                    "startOffset": 20150,
                     "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 19687
+                    "endOffset": 20316
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 19214,
+                        "endLine": 263,
+                        "endColumn": 12,
+                        "endOffset": 19380
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 19692,
+                    "startOffset": 20321,
                     "endLine": 280,
                     "endColumn": 12,
-                    "endOffset": 19853
+                    "endOffset": 20482
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 19385,
+                        "endLine": 266,
+                        "endColumn": 12,
+                        "endOffset": 19546
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 19858,
+                    "startOffset": 20487,
                     "endColumn": 128,
-                    "endOffset": 19982
+                    "endOffset": 20611
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 19551,
+                        "endColumn": 128,
+                        "endOffset": 19675
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 19987,
+                    "startOffset": 20616,
                     "endLine": 284,
                     "endColumn": 12,
-                    "endOffset": 20153
+                    "endOffset": 20782
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 19680,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 19846
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 20158,
+                    "startOffset": 20787,
                     "endColumn": 130,
-                    "endOffset": 20284
+                    "endOffset": 20913
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 19851,
+                        "endColumn": 130,
+                        "endOffset": 19977
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 20289,
+                    "startOffset": 20918,
                     "endLine": 288,
                     "endColumn": 12,
-                    "endOffset": 20454
+                    "endOffset": 21083
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 19982,
+                        "endLine": 274,
+                        "endColumn": 12,
+                        "endOffset": 20147
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 20459,
+                    "startOffset": 21088,
                     "endColumn": 115,
-                    "endOffset": 20570
+                    "endOffset": 21199
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 115,
+                        "endOffset": 465
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 20575,
+                    "startOffset": 21204,
                     "endColumn": 125,
-                    "endOffset": 20696
+                    "endOffset": 21325
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 125,
+                        "endOffset": 591
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 20701,
+                    "startOffset": 21330,
                     "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 20864
+                    "endOffset": 21493
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 218
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 20869,
+                    "startOffset": 21498,
                     "endLine": 296,
                     "endColumn": 12,
-                    "endOffset": 21027
+                    "endOffset": 21656
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 381
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 21032,
+                    "startOffset": 21661,
                     "endColumn": 125,
-                    "endOffset": 21153
+                    "endOffset": 21782
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 125,
+                        "endOffset": 717
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 21158,
+                    "startOffset": 21787,
                     "endLine": 300,
                     "endColumn": 12,
-                    "endOffset": 21321
+                    "endOffset": 21950
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 549
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 21326,
+                    "startOffset": 21955,
                     "endColumn": 127,
-                    "endOffset": 21449
+                    "endOffset": 22078
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 127,
+                        "endOffset": 845
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 21454,
+                    "startOffset": 22083,
                     "endLine": 304,
                     "endColumn": 12,
-                    "endOffset": 21616
+                    "endOffset": 22245
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 21621,
+                    "startOffset": 22250,
                     "endLine": 307,
                     "endColumn": 12,
-                    "endOffset": 21788
+                    "endOffset": 22417
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 1017
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 21793,
+                    "startOffset": 22422,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 22126
+                    "endOffset": 22755
                 },
                 "from": {
-                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml"
+                    "file": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1355
+                    }
                 }
             }
         ]

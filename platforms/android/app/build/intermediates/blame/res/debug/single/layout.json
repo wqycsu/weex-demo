@@ -100,12 +100,12 @@
         "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/res/layout/zxing_barcode_scanner.xml"
     },
     {
-        "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/weiquanyun/WeexProjects/awesome-project/platforms/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
